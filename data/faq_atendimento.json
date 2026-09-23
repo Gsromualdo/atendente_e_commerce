@@ -1,0 +1,14 @@
+[
+  {
+    "pergunta": "Quais são as formas de pagamento?",
+    "resposta": "Aceitamos Cartão de Crédito (até 10x sem juros), PIX com 5% de desconto e Boleto Bancário."
+  },
+  {
+    "pergunta": "A loja possui loja física?",
+    "resposta": "Somos uma operação 100% online, o que nos permite oferecer preços mais competitivos."
+  },
+  {
+    "pergunta": "Como rastrear meu pedido?",
+    "resposta": "Assim que o produto é despachado, você recebe um código de rastreio por e-mail para acompanhar no site da transportadora."
+  }
+]

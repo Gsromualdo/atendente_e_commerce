@@ -1,0 +1,19 @@
+{
+  "regioes": [
+    {
+      "nome": "Sudeste",
+      "prazo_medio": "3 a 5 dias úteis",
+      "frete_gratis_acima": 199.00
+    },
+    {
+      "nome": "Nordeste",
+      "prazo_medio": "7 a 12 dias úteis",
+      "frete_gratis_acima": 299.00
+    },
+    {
+      "nome": "Sul",
+      "prazo_medio": "4 a 6 dias úteis",
+      "frete_gratis_acima": 199.00
+    }
+  ]
+}

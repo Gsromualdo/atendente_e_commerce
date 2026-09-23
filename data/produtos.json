@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Smartphone Galaxy Z5",
+    "descricao": "Tela AMOLED 6.7 polegadas, 256GB, Câmera 50MP.",
+    "categoria": "Eletrônicos",
+    "disponibilidade": "em_estoque"
+  },
+  {
+    "nome": "Tênis Runner Pro",
+    "descricao": "Tênis de alta performance para corrida de rua.",
+    "categoria": "Calçados",
+    "disponibilidade": "esgotado"
+  },
+  {
+    "nome": "Cafeteira Espresso Lux",
+    "descricao": "Pressão 19 bars, compatível com cápsulas e pó.",
+    "categoria": "Eletrodomésticos",
+    "disponibilidade": "em_estoque"
+  }
+]

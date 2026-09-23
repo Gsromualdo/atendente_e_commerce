@@ -1,0 +1,7 @@
+id_pedido;status;prazo_entrega;transportadora
+1001;entregue;15/10/2023;LogisticaBR
+1002;em_transito;30/01/2024;FlashEntrega
+1003;processando;05/02/2024;Correios
+1004;cancelado;N/A;LogisticaBR
+1005;em_transito;02/02/2024;FlashEntrega
+1006;entregue;20/12/2023;LogisticaBR
